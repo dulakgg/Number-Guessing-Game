@@ -14,4 +14,4 @@ This is a simple **Number Guessing Game** created in **C++**. The program random
 
 Clone the Repository
 ```bash
-git clone https://github.com/your-username/Number-Guessing-Game.git
+git clone https://github.com/dulakgg/Number-Guessing-Game.git
